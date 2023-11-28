@@ -7,19 +7,19 @@ Problem Statement
 AtliQ Hardware, a global supplier of computer peripherals, initially experienced success but faced significant losses in recent years. This downturn can be attributed to their reliance on static Excel reports, which fell short in delivering the necessary insights for informed decision-making. Consequently, the company sought the expertise of a data analytics team to craft a dynamic Power BI dashboard, serving as a versatile tool providing insights from various departments, including Finance, Sales, Marketing, and Supply Chain.
 Project Objectives
 
-    Establish a robust framework for generating and delivering actionable insights.
-    Develop an interactive report offering invaluable insights to finance, sales, marketing, supply chain, and executive teams, referencing provided mockup dashboards.
-    Conduct a comprehensive analysis of key data sources, encompassing customer behavior, transaction history, product trends, and regional dynamics.
+    1 Establish a robust framework for generating and delivering actionable insights.
+    2 Develop an interactive report offering invaluable insights to finance, sales, marketing, supply chain, and executive teams, referencing provided mockup dashboards.
+    3 Conduct a comprehensive analysis of key data sources, encompassing customer behavior, transaction history, product trends, and regional dynamics.
 
 Approach
 
 The project unfolded through distinct phases:
 
-    Project Planning
-    Data Collection, Exploration, Transformation
-    Data Modeling
-    Dashboard Preparation
-    Data Validation & Stakeholder Feedback Implementation
+    1 Project Planning
+    2 Data Collection, Exploration, Transformation
+    3 Data Modeling
+    4 Dashboard Preparation
+    5 Data Validation & Stakeholder Feedback Implementation
 
 Solution Unveiled
 
